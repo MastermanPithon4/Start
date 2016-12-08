@@ -1,2 +1,2 @@
 # Start
-Getting started Stuff
+Open GettingStarted.txt
