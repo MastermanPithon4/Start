@@ -24,6 +24,25 @@ Run some Python
 1. Enter 'idle HelloPiThon.py &'
 2. Run by clicking the 'Run' menu then 'Run Module'
 
+Terminal cheat sheet:
+cd [DirectoryPath]    - change directory to location specified in path
+cd ..                 - go to the parent directory of the current directory
+ls                    - list contents of current directory
+mkdir [DirectoryName] - Make directory with name 'DirectoryName'
+
+idle [pythonFile] &   - Open a python file in idle (the '&' allows you to continue to use the terminal while idle is open)
+
+git clone [URL To Repo] - Download a git repository into the current directory
+git status              - Status of the current git repository (must be run from within repo directory)
+git add .               - Add all new files to git repository
+git commit -a           - Commit all uncommitted changes as a 'ChangeSet'
+                          (Will open terminal text editor, you must enter a commit message then save. 
+                          control-x, then Y, then enter to close and save file)
+git push                - Push all local change sets to git repo (will need github account and write access to repo)
+git pull                - Pull all changes to repo from server into your local copy of the repo
 
 
+
+
+HOMEWORK:
 Sign up for Github account at github.com
